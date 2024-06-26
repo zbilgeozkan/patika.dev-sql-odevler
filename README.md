@@ -1,1 +1,1 @@
-# patika.dev-sql-odev1
+# patika.dev-sql
