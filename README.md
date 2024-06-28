@@ -1,1 +1,1 @@
-# patika.dev-sql
+# patika.dev SQL Homeworks
